@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://br47xq3aq2yal"]
+
+[ext_resource type="Script" uid="uid://dykwfqafho7m4" path="res://01-basics/even_numbers.gd" id="1_rdwv7"]
+
+[node name="Even_Numbers" type="Node"]
+script = ExtResource("1_rdwv7")
