@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dkcna5kftme70"]
 
-[ext_resource type="Script" uid="uid://c4f4cxuyhynrw" path="res://01-basics/numbers.gd" id="1_5hn82"]
+[ext_resource type="Script" uid="uid://c4f4cxuyhynrw" path="res://01-basics/numbers_test.gd" id="1_5hn82"]
 
 [node name="NumberTest" type="Node"]
 script = ExtResource("1_5hn82")
