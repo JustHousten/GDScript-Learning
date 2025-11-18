@@ -11,14 +11,14 @@ func _process(delta: float) -> void:
 	pass
 
 
-func grade_calculator(points: int) -> void:
+func grade_calculator(points: int) -> String:
 	if points >= 90:
-		print("A")
+		return "A"
 	elif points >= 80:
-		print("B")
+		return "B"
 	elif points >= 70:
-		print("C")
+		return "C"
 	elif points >= 60:
-		print("D")
+		return "D"
 	else:
-		print("F")
+		return "F"
