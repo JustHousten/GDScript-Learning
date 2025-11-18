@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://x2vu618xdm3s"]
+
+[ext_resource type="Script" uid="uid://m7w5h58lhila" path="res://01-basics/most_expensive.gd" id="1_r4rwi"]
+
+[node name="most_expensive" type="Node"]
+script = ExtResource("1_r4rwi")
