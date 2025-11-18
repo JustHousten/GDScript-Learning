@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c5x670vxgo2ba"]
+
+[ext_resource type="Script" uid="uid://vml6u1hs3cg1" path="res://01-basics/grade_calculator.gd" id="1_vx2lr"]
+
+[node name="grade_calculator" type="Node"]
+script = ExtResource("1_vx2lr")
