@@ -1,6 +1,6 @@
 ## Lerntagebuch
 
-### Tag 1 - [Gestern's Datum]
+### Tag 1 - [16.11.2025]
 **Gelernt:**
 - While & For Loops
 - Functions mit bool return
@@ -25,5 +25,32 @@
 
 ---
 
-### Tag 2 - [Heute's Datum]
-**Ziel:** ...
+### Tag 2 - [18.11.2025]
+**Gelernt:**
+- Tracking-Variablen in Loops (max-Wert finden)
+- Dictionary-Manipulation (add/remove/erase)
+- If/elif/else Ketten
+- Bool als Function-Parameter
+- Game-Logic programmieren (RPG Damage)
+
+**Challenges:**
+6. ✅ Most Expensive Item (Loop + Tracking)
+7. ✅ Inventory Manager (Dictionary CRUD)
+8. ✅ Grade Calculator (if/elif/else)
+9. ✅ Damage Calculator (RPG Mechanik)
+
+**Schwierigkeiten:**
+- Return vs Print - wann wird was ausgegeben?
+- Balance zwischen Verstehen und Anwenden
+- Git auf mehreren Computern synchronisieren
+
+**Erfolge:**
+- 4 Challenges an einem Tag!
+- Erste echte Game-Mechanik selbst gebaut!
+- Ehrliche Selbstreflexion über Lernprozess ("Abschreiben vs Lernen")
+- Git-Workflow zwischen Laptop und Heimcomputer gemeistert!
+
+---
+
+### Tag 3 - [Heute]
+**Ziel:** Godot-spezifische Features lernen
