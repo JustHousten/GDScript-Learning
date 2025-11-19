@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://de3l8xguad0cx"]
+
+[ext_resource type="Script" uid="uid://crt54ksk4jtab" path="res://countdown_timer.gd" id="1_n5r8k"]
+
+[node name="countdown_timer" type="Node"]
+script = ExtResource("1_n5r8k")
