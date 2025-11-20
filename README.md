@@ -52,5 +52,32 @@
 
 ---
 
-### Tag 3 - [Heute]
-**Ziel:** Godot-spezifische Features lernen
+### Tag 3 - [19.11.2025]
+**Gelernt:**
+- Godot Nodes programmatisch erstellen (Node2D.new())
+- Vector2 für Positionen
+- Parent-Child Hierarchie (add_child)
+- ColorRect für visuelle Elemente
+- Delta time für frame-rate unabhängige Logik
+- Flag-Variablen für State-Control
+- ProgressBar Component
+- clamp() für Wertegrenzen
+
+**Challenges:**
+10. ✅ Enemy Spawner (ColorRect Grid)
+11. ✅ Countdown Timer (Delta time + Flag)
+12. ✅ Health Bar System (ProgressBar + Game logic)
+
+**Schwierigkeiten:**
+- Unterschied zwischen Bar.value und current_hp
+- Wann welche Variable updaten
+
+**Erfolge:**
+- 3 echte Godot-Features gebaut!
+- Erste visuelle UI-Elemente!
+- Delta time verstanden!
+
+---
+
+### Tag 4 - [Heute]
+**Ziel:** ...
