@@ -79,5 +79,26 @@
 
 ---
 
-### Tag 4 - [Heute]
+### Tag 4 - [20.11.2025]
+**Gelernt:**
+- Signals definieren und senden (.emit())
+- Signals verbinden und empfangen (.connect())
+- Button programmatisch erstellen
+- Button.pressed Signal nutzen
+- Signal-Chaining (Signal löst Signal aus)
+
+**Challenges:**
+13. ✅ Signal System (Custom Signal + Button Event)
+
+**Schwierigkeiten:**
+- Signal-Konzept war am Anfang abstrakt
+- Unterschied zwischen Godot-Signals und eigenen Signals
+
+**Erfolge:**
+- Erstes interaktives UI-Element mit Signals!
+- Verstanden wie Node-Kommunikation funktioniert!
+
+---
+
+### Tag 5 - [Heute]
 **Ziel:** ...
