@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cplgblj36a7fs"]
+
+[ext_resource type="Script" uid="uid://dgfk06tymrqgb" path="res://click_counter.gd" id="1_j87g0"]
+
+[node name="ClickCounter" type="Node2D"]
+script = ExtResource("1_j87g0")
